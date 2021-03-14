@@ -1,0 +1,23 @@
+
+body {background-color: #c8c6a7}
+
+hr  {
+background-color: black;
+border-style: none none none;
+border-color: red;
+border-width: 100px;
+height: 1px;
+}
+
+h1 {
+  color: red;  <!-- to change color of headings in all pages of website -->
+}
+
+h3
+{
+  color: blue;  <!-- to change color of headings in all pages of website -->
+}
+
+img {
+height:300px;
+}
